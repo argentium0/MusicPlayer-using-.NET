@@ -211,7 +211,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Project Link: [https://github.com/yourusername/viconnect-music-player](https://github.com/yourusername/viconnect-music-player)
+Project Link: https://github.com/argentium0/MusicPlayer-using-.NET
 
 ---
 
